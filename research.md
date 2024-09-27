@@ -1,1 +1,5 @@
 Research here
+
+As I work towards my goals both academic and professional are important to me as I aim to become a successful UX designer and launch my own business in Saudi Arabia. my primary goal is to build a an excellent portfolio that draws clients and showcases my design abilities. Academic objectives, on the other hand, often rely on mastering concepts and passing tests. Cleveland (2018) discusses the benefits of digital portfolios for self evaluation and development, which relates to my aim of utilizing my portfolio for personal development. My career objectives are more about developing useful abilities and being prepared fo the job market, while my academic targets helps in the development of knowledge. This demonstrates the necessity for me to mix the two, taking advantage of the academic knowledge to enhance my portfolio will assist me to be successful in the UX industry.
+
+  Cleveland, R. E. (2018). Using Digital Portfolios: Reflection, Assessment & Employment. TechTrends, 62(3), 276–285. https://doi.org/10.1007/s11528-018-0262-0
